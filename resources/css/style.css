@@ -1,3 +1,18 @@
+h1, h2, h3, p, nav {
+  font-family: Helvetica;
+  text-align: center;
+}
+
 h1 {
   font-size: 70px;
+  color: grey;
+}
+
+nav {
+  color: grey;
+}
+
+h2  {
+  font-size: 32px;
+  font-weight: bold;
 }
