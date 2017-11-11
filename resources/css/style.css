@@ -16,3 +16,8 @@ h2  {
   font-size: 32px;
   font-weight: bold;
 }
+
+.footer {
+  text-align: left;
+  background-color: dimgray;
+}
